@@ -3,7 +3,7 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  distDir: 'build',
+  distDir: 'build', basePath: '/next13/'
 };
 
 module.exports = nextConfig;
