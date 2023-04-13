@@ -8,10 +8,10 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Traversy Media',
-  description: 'Web development tutorials and courses',
+  title: 'Awab  omer',
+  description: 'Web development',
   keywords:
-    'web development, web design, javascript, react, node, angular, vue, html, css',
+    'web development, web design, javascript, react, node, html, css',
 };
 
 export default function RootLayout({ children }) {
